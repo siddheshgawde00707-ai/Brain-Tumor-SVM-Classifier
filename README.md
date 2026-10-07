@@ -1,6 +1,9 @@
 # Brain-Tumor-SVM-Classifier
 Machine learning project that classifies brain tumor cases using Support Vector Machine (SVM) with data preprocessing, visualization, and model evaluation.
 
+<img width="551" height="368" alt="Screenshot 2026-10-07 152756" src="https://github.com/user-attachments/assets/00af2ad5-15fe-4375-b0bd-929ab6eae72a" />
+
+
 1. Developed a machine learning model to classify brain tumor cases using a Support Vector Machine (SVM) algorithm.
 2. Used a dataset containing 6,000 records and 9 columns, with different numerical features related to tumor characteristics.
 3. The dataset includes features such as Mean Intensity, Intensity STD, Texture Contrast, Homogeneity, Energy, Entropy, Tumor Area, and Perimeter.
